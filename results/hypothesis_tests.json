@@ -1,0 +1,40 @@
+{
+  "H1_mcnemar_hybrid_vs_ner_unstructured": {
+    "n_entities": 632,
+    "hybrid_recall": 0.934,
+    "ner_recall": 0.905,
+    "hybrid_only": 18,
+    "ner_only": 0,
+    "p_one_sided": 3.814697265625e-06,
+    "by_condition": {
+      "en": {
+        "hybrid": 0.918,
+        "ner": 0.892
+      },
+      "kk": {
+        "hybrid": 0.943,
+        "ner": 0.867
+      },
+      "ru": {
+        "hybrid": 0.962,
+        "ner": 0.956
+      },
+      "cs": {
+        "hybrid": 0.911,
+        "ner": 0.905
+      }
+    }
+  },
+  "H2_wilcoxon_latency": {
+    "rule_vs_ner": {
+      "rule_median_ms": 0.078,
+      "ner_median_ms": 1.568,
+      "p_one_sided": 2.0075889548010415e-41
+    },
+    "rule_vs_hybrid": {
+      "rule_median_ms": 0.078,
+      "hybrid_median_ms": 1.713,
+      "p_one_sided": 2.0076282171922544e-41
+    }
+  }
+}

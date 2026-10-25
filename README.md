@@ -1,4 +1,4 @@
-# PII detection in Kazakh, Russian and code-switched LLM prompts - pilot evaluation
+# PII detection in Kazakh, Russian and code-switched LLM prompts — pilot evaluation
 
 Research Methods, Assignment 3 (Core Practical Component). Team: Nazerke Abzhamal, Amina Dossan (SE-2422).
 
@@ -7,7 +7,7 @@ personal data in Kazakh, Russian and code-switched Kazakh–Russian prompts inte
 services, relative to English prompts?
 
 This repository contains the first working version of the evaluation pipeline: a synthetic annotated prompt set,
-three detectors behind one interface, an entity-level scorer with latency measurement, hypothesis tests (H1–H4)
+three detectors behind one interface, an entity-level scorer with latency measurement, hypothesis tests (H1–H2)
 and figures. All numbers in `results/` come from running the code below; nothing is entered by hand.
 
 ## Structure
@@ -15,7 +15,7 @@ and figures. All numbers in `results/` come from running the code below; nothing
 src/resources.py         entity taxonomy, name/place/org pools, gazetteers (subset of pools)
 src/generate_prompts.py  template-based generator; gold spans recorded at generation time
 src/detectors.py         RuleDetector, NERDetector (spaCy xx_ent_wiki_sm), HybridDetector
-src/evaluate.py          predictions, latency (5 runs, median), metrics, bootstrap CIs, H1–H4 tests
+src/evaluate.py          predictions, latency (5 runs, median), metrics, bootstrap CIs, H1–H2 tests
 src/plots.py             figures/
 tests/test_detectors.py  unit tests (IIN/IBAN checksums, detectors)
 data/prompts.jsonl       240 prompts (60 per condition), 988 gold entities
@@ -31,8 +31,8 @@ python src/generate_prompts.py --n 60 --seed 42 --out data/prompts.jsonl
 python src/evaluate.py --data data/prompts.jsonl --out results --runs 5
 python src/plots.py
 ```
-Detection metrics are deterministic for a fixed seed. Latency depends on hardware; the pilot ran on a
-2-vCPU x86_64 Linux container (see `results/environment.json`).
+Detection metrics are deterministic for a fixed seed. Latency depends on hardware; the reported pilot run used
+a Windows 11 machine with Python 3.12.10 and 16 logical cores (see `results/environment.json`).
 
 ## Data and privacy
 All prompts are synthetic. IINs and IBANs are random numbers that only satisfy the checksum rules; names are

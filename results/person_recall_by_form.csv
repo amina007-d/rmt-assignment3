@@ -1,0 +1,16 @@
+pipeline,form,size,mean
+hybrid,first_last,154,1.0
+hybrid,first_only,41,0.927
+hybrid,last_first,44,0.977
+hybrid,last_only,23,0.87
+hybrid,lowercase,38,0.132
+ner,first_last,154,0.987
+ner,first_only,41,0.854
+ner,last_first,44,0.955
+ner,last_only,23,0.87
+ner,lowercase,38,0.132
+rule,first_last,154,0.727
+rule,first_only,41,0.683
+rule,last_first,44,0.727
+rule,last_only,23,0.348
+rule,lowercase,38,0.0

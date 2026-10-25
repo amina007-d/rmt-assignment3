@@ -1,0 +1,15 @@
+{
+  "python": "3.12.10",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+  "cpu_count": 16,
+  "spacy": "3.8.16",
+  "ner_model": "xx_ent_wiki_sm",
+  "ner_model_version": "3.8.0",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "pandas": "3.0.5",
+  "runs": 5,
+  "n_prompts": 240,
+  "n_gold": 988
+}
