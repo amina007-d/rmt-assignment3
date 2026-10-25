@@ -1,0 +1,15 @@
+{
+  "python": "3.12.2",
+  "platform": "macOS-26.2-arm64-arm-64bit",
+  "processor": "arm",
+  "cpu_count": 8,
+  "spacy": "3.8.16",
+  "ner_model": "xx_ent_wiki_sm",
+  "ner_model_version": "3.8.0",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "pandas": "3.0.5",
+  "runs": 1,
+  "n_prompts": 240,
+  "n_gold": 988
+}

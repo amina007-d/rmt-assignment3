@@ -1,0 +1,4 @@
+pipeline,size,sum
+hybrid,37,5
+ner,37,5
+rule,37,0

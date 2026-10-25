@@ -1,0 +1,299 @@
+id,lang,pipeline,text,label
+en-000,en,ner,Can,ORG
+en-000,en,ner,IIN,ORG
+en-000,en,ner,Contact,MISC
+en-000,en,hybrid,Can,ORG
+en-000,en,hybrid,IIN,ORG
+en-000,en,hybrid,Contact,MISC
+en-002,en,ner,Russian,MISC
+en-002,en,ner,No. 010748875231,MISC
+en-002,en,ner,Please,PERSON
+en-002,en,ner,ID,MISC
+en-002,en,hybrid,Russian,MISC
+en-002,en,hybrid,No. 010748875231,MISC
+en-002,en,hybrid,Please,PERSON
+en-002,en,hybrid,ID,MISC
+en-004,en,ner,Email,MISC
+en-004,en,hybrid,Email,MISC
+en-006,en,ner,Check,PERSON
+en-006,en,hybrid,Check,PERSON
+en-008,en,ner,Can,ORG
+en-008,en,ner,IIN,ORG
+en-008,en,ner,Contact,MISC
+en-008,en,hybrid,Can,ORG
+en-008,en,hybrid,IIN,ORG
+en-008,en,hybrid,Contact,MISC
+en-010,en,ner,Russian,MISC
+en-010,en,ner,No. 6650534,MISC
+en-010,en,ner,Please,PERSON
+en-010,en,ner,ID,MISC
+en-010,en,hybrid,Russian,MISC
+en-010,en,hybrid,No. 6650534,MISC
+en-010,en,hybrid,Please,PERSON
+en-010,en,hybrid,ID,MISC
+en-012,en,ner,Email,MISC
+en-012,en,hybrid,Email,MISC
+en-014,en,ner,Check,PERSON
+en-014,en,hybrid,Check,PERSON
+en-015,en,ner,Contacts,MISC
+en-015,en,hybrid,Contacts,MISC
+en-016,en,ner,Can,ORG
+en-016,en,ner,IIN,MISC
+en-016,en,ner,Contact,MISC
+en-016,en,hybrid,Can,ORG
+en-016,en,hybrid,IIN,MISC
+en-016,en,hybrid,Contact,MISC
+en-018,en,ner,Russian,MISC
+en-018,en,ner,No. 941473791231,MISC
+en-018,en,ner,Please,PERSON
+en-018,en,ner,ID,MISC
+en-018,en,hybrid,Russian,MISC
+en-018,en,hybrid,No. 941473791231,MISC
+en-018,en,hybrid,Please,PERSON
+en-018,en,hybrid,ID,MISC
+en-020,en,ner,Email,MISC
+en-020,en,hybrid,Email,MISC
+en-022,en,ner,Check,PERSON
+en-022,en,hybrid,Check,PERSON
+en-024,en,ner,Can,ORG
+en-024,en,ner,IIN,ORG
+en-024,en,ner,Contact,MISC
+en-024,en,hybrid,Can,ORG
+en-024,en,hybrid,IIN,ORG
+en-024,en,hybrid,Contact,MISC
+en-026,en,ner,Russian,MISC
+en-026,en,ner,No. 188484365230,MISC
+en-026,en,ner,Please,PERSON
+en-026,en,ner,ID,MISC
+en-026,en,hybrid,Russian,MISC
+en-026,en,hybrid,No. 188484365230,MISC
+en-026,en,hybrid,Please,PERSON
+en-026,en,hybrid,ID,MISC
+en-028,en,ner,Email,MISC
+en-028,en,hybrid,Email,MISC
+en-030,en,ner,Check,PERSON
+en-030,en,hybrid,Check,PERSON
+en-032,en,ner,Can,ORG
+en-032,en,ner,IIN,ORG
+en-032,en,ner,Contact,MISC
+en-032,en,hybrid,Can,ORG
+en-032,en,hybrid,IIN,ORG
+en-032,en,hybrid,Contact,MISC
+en-034,en,ner,Russian,MISC
+en-034,en,ner,No. 392902294365,MISC
+en-034,en,ner,Please,PERSON
+en-034,en,ner,ID,MISC
+en-034,en,hybrid,Russian,MISC
+en-034,en,hybrid,No. 392902294365,MISC
+en-034,en,hybrid,Please,PERSON
+en-034,en,hybrid,ID,MISC
+en-036,en,ner,Email,MISC
+en-036,en,hybrid,Email,MISC
+en-038,en,ner,Check,PERSON
+en-038,en,hybrid,Check,PERSON
+en-040,en,ner,Can,ORG
+en-040,en,ner,IIN,ORG
+en-040,en,ner,Contact,MISC
+en-040,en,hybrid,Can,ORG
+en-040,en,hybrid,IIN,ORG
+en-040,en,hybrid,Contact,MISC
+en-042,en,ner,Russian,MISC
+en-042,en,ner,No. 5611635,MISC
+en-042,en,ner,Please,PERSON
+en-042,en,ner,ID,MISC
+en-042,en,hybrid,Russian,MISC
+en-042,en,hybrid,No. 5611635,MISC
+en-042,en,hybrid,Please,PERSON
+en-042,en,hybrid,ID,MISC
+en-044,en,ner,Email,MISC
+en-044,en,hybrid,Email,MISC
+en-046,en,ner,Check,PERSON
+en-046,en,hybrid,Check,PERSON
+en-048,en,ner,Can,ORG
+en-048,en,ner,IIN,ORG
+en-048,en,ner,Contact,MISC
+en-048,en,hybrid,Can,ORG
+en-048,en,hybrid,IIN,ORG
+en-048,en,hybrid,Contact,MISC
+en-050,en,ner,Russian,MISC
+en-050,en,ner,No. 525579340107,MISC
+en-050,en,ner,Please,PERSON
+en-050,en,ner,ID,MISC
+en-050,en,hybrid,Russian,MISC
+en-050,en,hybrid,No. 525579340107,MISC
+en-050,en,hybrid,Please,PERSON
+en-050,en,hybrid,ID,MISC
+en-052,en,ner,Email,MISC
+en-052,en,hybrid,Email,MISC
+en-054,en,ner,Check,PERSON
+en-054,en,hybrid,Check,PERSON
+en-056,en,ner,Can,ORG
+en-056,en,ner,IIN,ORG
+en-056,en,ner,Contact,MISC
+en-056,en,hybrid,Can,ORG
+en-056,en,hybrid,IIN,ORG
+en-056,en,hybrid,Contact,MISC
+en-058,en,ner,Russian,MISC
+en-058,en,ner,No,MISC
+en-058,en,ner,Please,PERSON
+en-058,en,ner,ID,MISC
+en-058,en,hybrid,Russian,MISC
+en-058,en,hybrid,No,MISC
+en-058,en,hybrid,Please,PERSON
+en-058,en,hybrid,ID,MISC
+kk-000,kk,ner,ЖСН,PERSON
+kk-000,kk,hybrid,ЖСН,PERSON
+kk-001,kk,ner,мекенжайында тұрамын,PERSON
+kk-001,kk,ner,Электрондық,PERSON
+kk-001,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-001,kk,hybrid,Электрондық,PERSON
+kk-003,kk,ner,Қателерін,LOC
+kk-003,kk,hybrid,Қателерін,LOC
+kk-008,kk,ner,ЖСН,LOC
+kk-008,kk,hybrid,ЖСН,LOC
+kk-009,kk,ner,мекенжайында тұрамын,PERSON
+kk-009,kk,ner,Электрондық,PERSON
+kk-009,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-009,kk,hybrid,Электрондық,PERSON
+kk-011,kk,ner,Қателерін,LOC
+kk-011,kk,hybrid,Қателерін,LOC
+kk-016,kk,ner,ЖСН,LOC
+kk-016,kk,hybrid,ЖСН,LOC
+kk-017,kk,ner,мекенжайында тұрамын,PERSON
+kk-017,kk,ner,Электрондық,PERSON
+kk-017,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-017,kk,hybrid,Электрондық,PERSON
+kk-019,kk,ner,Қателерін,LOC
+kk-019,kk,hybrid,Қателерін,LOC
+kk-020,kk,ner,ЖСН,LOC
+kk-020,kk,hybrid,ЖСН,LOC
+kk-024,kk,ner,ЖСН,PERSON
+kk-024,kk,hybrid,ЖСН,PERSON
+kk-025,kk,ner,мекенжайында тұрамын,PERSON
+kk-025,kk,ner,Электрондық,PERSON
+kk-025,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-025,kk,hybrid,Электрондық,PERSON
+kk-027,kk,ner,Қателерін,LOC
+kk-027,kk,hybrid,Қателерін,LOC
+kk-028,kk,ner,ЖСН,LOC
+kk-028,kk,hybrid,ЖСН,LOC
+kk-032,kk,ner,ЖСН,PERSON
+kk-032,kk,hybrid,ЖСН,PERSON
+kk-033,kk,ner,мекенжайында тұрамын,PERSON
+kk-033,kk,ner,Электрондық,PERSON
+kk-033,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-033,kk,hybrid,Электрондық,PERSON
+kk-035,kk,ner,Қателерін,LOC
+kk-035,kk,hybrid,Қателерін,LOC
+kk-040,kk,ner,ЖСН,LOC
+kk-040,kk,hybrid,ЖСН,LOC
+kk-041,kk,ner,мекенжайында тұрамын,PERSON
+kk-041,kk,ner,Электрондық,PERSON
+kk-041,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-041,kk,hybrid,Электрондық,PERSON
+kk-043,kk,ner,Қателерін,LOC
+kk-043,kk,hybrid,Қателерін,LOC
+kk-048,kk,ner,ЖСН,PERSON
+kk-048,kk,hybrid,ЖСН,PERSON
+kk-049,kk,ner,мекенжайында тұрамын,PERSON
+kk-049,kk,ner,Электрондық,PERSON
+kk-049,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-049,kk,hybrid,Электрондық,PERSON
+kk-051,kk,ner,Қателерін,LOC
+kk-051,kk,hybrid,Қателерін,LOC
+kk-056,kk,ner,ЖСН,PERSON
+kk-056,kk,hybrid,ЖСН,PERSON
+kk-057,kk,ner,мекенжайында тұрамын,PERSON
+kk-057,kk,ner,Электрондық,PERSON
+kk-057,kk,hybrid,мекенжайында тұрамын,PERSON
+kk-057,kk,hybrid,Электрондық,PERSON
+kk-059,kk,ner,Қателерін,LOC
+kk-059,kk,hybrid,Қателерін,LOC
+ru-000,ru,ner,ФИО,ORG
+ru-000,ru,hybrid,ФИО,ORG
+ru-002,ru,ner,английский,MISC
+ru-002,ru,hybrid,английский,MISC
+ru-004,ru,ner,ФИО,ORG
+ru-004,ru,hybrid,ФИО,ORG
+ru-008,ru,ner,ФИО,ORG
+ru-008,ru,hybrid,ФИО,ORG
+ru-010,ru,ner,английский,MISC
+ru-010,ru,hybrid,английский,MISC
+ru-012,ru,ner,ФИО,ORG
+ru-012,ru,hybrid,ФИО,ORG
+ru-015,ru,ner,Контакты,LOC
+ru-015,ru,hybrid,Контакты,LOC
+ru-016,ru,ner,ФИО,ORG
+ru-016,ru,hybrid,ФИО,ORG
+ru-017,ru,ner,Меня,LOC
+ru-017,ru,hybrid,Меня,LOC
+ru-018,ru,ner,английский,MISC
+ru-018,ru,hybrid,английский,MISC
+ru-020,ru,ner,ФИО,ORG
+ru-020,ru,hybrid,ФИО,ORG
+ru-023,ru,ner,Контакты,LOC
+ru-023,ru,hybrid,Контакты,LOC
+ru-024,ru,ner,ФИО,ORG
+ru-024,ru,hybrid,ФИО,ORG
+ru-026,ru,ner,английский,MISC
+ru-026,ru,hybrid,английский,MISC
+ru-028,ru,ner,ФИО,ORG
+ru-028,ru,hybrid,ФИО,ORG
+ru-031,ru,ner,Контакты,LOC
+ru-031,ru,hybrid,Контакты,LOC
+ru-032,ru,ner,ФИО,ORG
+ru-032,ru,hybrid,ФИО,ORG
+ru-034,ru,ner,английский,MISC
+ru-034,ru,ner,ваша заявка,PERSON
+ru-034,ru,hybrid,английский,MISC
+ru-034,ru,hybrid,ваша заявка,PERSON
+ru-036,ru,ner,ФИО,ORG
+ru-036,ru,hybrid,ФИО,ORG
+ru-039,ru,ner,Контакты,LOC
+ru-039,ru,hybrid,Контакты,LOC
+ru-040,ru,ner,ФИО,ORG
+ru-040,ru,hybrid,ФИО,ORG
+ru-042,ru,ner,английский,MISC
+ru-042,ru,hybrid,английский,MISC
+ru-047,ru,ner,Контакты,LOC
+ru-047,ru,hybrid,Контакты,LOC
+ru-048,ru,ner,ФИО,ORG
+ru-048,ru,hybrid,ФИО,ORG
+ru-049,ru,ner,Меня,LOC
+ru-049,ru,hybrid,Меня,LOC
+ru-050,ru,ner,английский,MISC
+ru-050,ru,hybrid,английский,MISC
+ru-052,ru,ner,ФИО,ORG
+ru-052,ru,hybrid,ФИО,ORG
+ru-055,ru,ner,Контакты,LOC
+ru-055,ru,hybrid,Контакты,LOC
+ru-056,ru,ner,ФИО,ORG
+ru-056,ru,hybrid,ФИО,ORG
+ru-058,ru,ner,английский,MISC
+ru-058,ru,hybrid,английский,MISC
+cs-004,cs,ner,ЖСН,LOC
+cs-004,cs,hybrid,ЖСН,LOC
+cs-007,cs,ner,Контакты,LOC
+cs-007,cs,hybrid,Контакты,LOC
+cs-020,cs,ner,ЖСН,LOC
+cs-020,cs,hybrid,ЖСН,LOC
+cs-023,cs,ner,Контакты,LOC
+cs-023,cs,hybrid,Контакты,LOC
+cs-028,cs,ner,ЖСН,LOC
+cs-028,cs,hybrid,ЖСН,LOC
+cs-031,cs,ner,Контакты,LOC
+cs-031,cs,hybrid,Контакты,LOC
+cs-034,cs,ner,ваша заявка,PERSON
+cs-034,cs,hybrid,ваша заявка,PERSON
+cs-036,cs,ner,ЖСН,LOC
+cs-036,cs,hybrid,ЖСН,LOC
+cs-044,cs,ner,ЖСН,PERSON
+cs-044,cs,hybrid,ЖСН,PERSON
+cs-047,cs,ner,Контакты,LOC
+cs-047,cs,hybrid,Контакты,LOC
+cs-050,cs,ner,ваша заявка,PERSON
+cs-050,cs,hybrid,ваша заявка,PERSON
+cs-052,cs,ner,ЖСН,PERSON
+cs-052,cs,hybrid,ЖСН,PERSON
+cs-055,cs,ner,Контакты,LOC
+cs-055,cs,hybrid,Контакты,LOC
